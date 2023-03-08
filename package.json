@@ -1,0 +1,29 @@
+{
+  "name": "mofron-comp-breadcrumbs",
+  "version": "0.0.1",
+  "description": "Breadcrumbs component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-breadcrumbs.git"
+  },
+  "dependencies": {
+    "mofron-comp-image":"",
+    "mofron-comp-text":"",
+    "mofron-comp-link":"",
+    "mofron-layout-margin":""
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-breadcrumbs/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-breadcrumbs#readme"
+}
